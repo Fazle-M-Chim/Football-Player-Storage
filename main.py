@@ -200,7 +200,7 @@ show_data(my_obj_QB)
 print("Attempts :", my_obj_QB.get_attempts())
 print("Completions :", my_obj_QB.get_completions())
 print("Yards :", my_obj_QB.get_yards())
-print("Touchdowns :", my_obj_QB.get_touchdowns())\
+print("Touchdowns :", my_obj_QB.get_touchdowns())
 print("Interceptions :", my_obj_QB.get_interceptions())
 my_obj_QB.print_QBR()
 print()
